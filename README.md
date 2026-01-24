@@ -1,2 +1,14 @@
-# ia-cic-febrero-2026
-Curso de Inteligencia Artificial con Python - CIC IPN
+# Curso de Inteligencia Artificial con Python
+
+![IPN](https://ipn.mx/assets/files/main/img/template/header/logo-ipn-horizontal.svg)
+
+![CIC](https://www.cic.ipn.mx/img/home/menu/logocic.png)
+
+> Centro de Investigación en Computación
+>
+> Departamento de Diplomados y Extensión Profesional
+
+---
+
+Alan Badillo Salas (badillosalas@outlook.com)
+

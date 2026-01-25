@@ -12,3 +12,18 @@
 
 Alan Badillo Salas (badillosalas@outlook.com)
 
+## Importante
+
+Para poder participar en el grupo de whatsapp manda un correo con tu nombre completo y el asunto: IA PYTHON Grupo Whatsapp. El correo será contestado con la confirmación y el QR para unirse al grupo.
+
+Solo los alumnos de este curso podrán participar, cualquier persona ajena será bloqueada y eliminada del grupo inmediatamente.
+
+## Sesión 1
+
+> Resumen
+
+En esta clase hemos comenzado a entender los principios de la inteligencia artificial, sobre el como los fenómenos de la naturaleza pueden ser entendidos como *Eventos*, los cuales, en palabras simples son situaciones que pueden ser registradas. Estos registros se pueden coleccionar en un conjunto o tabla de registros, creando el *Conjunto de Datos*. Los conjuntos de datos almacenan los registros del evento mediante características y valores asociados a cada característica, por ejemplo, la edad, el peso o el tipo de sangre de una persona en el evento de un accidente de tránsito. Las características que son difíciles de simular o entender son tratadas como respuestas de las que se busca entender su comportamiento a través de la información de las otras caracteríticas. Formando así, variables de análisis informativas y de respuesta. Los modelos matemáticos, sobre todo estadísticos, permiten generalizar funciones mediante parámetros desconocidos los cuales pueden ser adaptados mediante métodos de optimización para explicar la respuesta como un modelo matemático ajustado. Las respuestas que produce el modelo se dice que son automáticas o por reflejo y establecen el principio de los modelos de *Aprendizaje Automático* (o *Machine Learning*). Con esto en mente se realizó un libreta en Python mediante Google Colab que nos muestra como cargar un conjunto de datos con observaciones de medidades de plantas Iris como el ancho del pétalo, el largo del pétalo, el ancho del sépalo, el largo del sépalo y la variedad o familia a la que pertenece. Cuándo determinamos que la respuesta es el largo del pétalo y pensamos que dicho largo es reflejo del ancho del pétalo, entonces podemos contrastar visualmente los datos sobre ambas medidas, encontrando un patrón lineal en el comportamiento del largo del pétalo. Esto nos lleva a responder algunas preguntas que quedarán como tarea.
+
+> Libreta de la clase
+
+https://colab.research.google.com/drive/1CZ2CHQQIRxK4misgqhcQAiAGuPn3RHuE?usp=sharing

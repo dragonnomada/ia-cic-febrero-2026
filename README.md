@@ -27,3 +27,23 @@ En esta clase hemos comenzado a entender los principios de la inteligencia artif
 > Libreta de la clase
 
 https://colab.research.google.com/drive/1CZ2CHQQIRxK4misgqhcQAiAGuPn3RHuE?usp=sharing
+
+## Sesión 2
+
+> Resumen
+
+En esta clase introducimos los conceptos principales de Python, como el uso de variables y funciones. Python es un lenguaje de programación no tipado de sintaxis limpia que permite estructurar sentencias de una forma sencilla y directa. Su aplicación principal es la construcción de variables y funciones que permiten manipular datos y procesar librerías gráficas y de manipulación de datos como Numpy, Pandas, Matplotlib y Seaborn.
+
+> Libreta de la clase
+
+https://colab.research.google.com/drive/10w4JvtZM7xbxciwd3TcrS-FM9XRRG_lY?usp=sharing
+
+## Sesión 3
+
+> Resumen
+
+En esta clase comenzamos el análisis de los modelos de Machine Learning como los árboles de decisión para poder predecir respuestas categóricas o la regresión para poder predecir respuestas numéricas.
+
+> Libreta de la clase
+
+https://colab.research.google.com/drive/1VPqh7jed6LUy9ZvzjALaJh2oOxJNJuZv?usp=sharing

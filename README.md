@@ -47,3 +47,23 @@ En esta clase comenzamos el análisis de los modelos de Machine Learning como lo
 > Libreta de la clase
 
 https://colab.research.google.com/drive/1VPqh7jed6LUy9ZvzjALaJh2oOxJNJuZv?usp=sharing
+
+## Sesión 4
+
+> Resumen
+
+En esta clase se profundizó sobre los modelos de clasificación y las métricas derivadas de la matriz de confusión (*Accuracy*, *Precision*, *Sensivity*, *Especificity*, *F1-Score*), así como la construcción de una red neuronal capaz de clasificar las plantas iris.
+
+> Libreta de la clase
+
+https://colab.research.google.com/drive/11PeHkUtIJS5Kq0bq14ueBunPOqR1KnUJ?usp=sharing
+
+## Sesión 5
+
+> Resumen
+
+En esta clase se profundizó sobre los modelos de regresión y las métricas derivadas de la distancia de las predicciones a las respuestas reales (*MSE - Mean Square Error*, y *MAE - Mean Absolute Error*), asi como la construcción de una red neuronal capaz de predecir el precio de casas.
+
+> Libreta de la clase
+
+https://colab.research.google.com/drive/1VPqh7jed6LUy9ZvzjALaJh2oOxJNJuZv?usp=sharing

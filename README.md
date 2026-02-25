@@ -66,4 +66,4 @@ En esta clase se profundizó sobre los modelos de regresión y las métricas der
 
 > Libreta de la clase
 
-https://colab.research.google.com/drive/1VPqh7jed6LUy9ZvzjALaJh2oOxJNJuZv?usp=sharing
+https://colab.research.google.com/drive/1hhdhVQNGXikJH9jcLWkcwXqEkOiuiHB7?usp=sharing

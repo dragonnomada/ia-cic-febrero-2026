@@ -67,3 +67,13 @@ En esta clase se profundizó sobre los modelos de regresión y las métricas der
 > Libreta de la clase
 
 https://colab.research.google.com/drive/1hhdhVQNGXikJH9jcLWkcwXqEkOiuiHB7?usp=sharing
+
+## Sesión 7
+
+> Resumen
+
+Se trabajó en el proyecto final.
+
+> Libreta de la clase
+
+https://colab.research.google.com/drive/1sEUbJGzRG0pNtkjCpkrbeoiHd_YcFMmE?usp=sharing
